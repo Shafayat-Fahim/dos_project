@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shafayat\\Documents\\C\\MouseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45E68B59-76B4-4474-BF9F-FD807215BF08}|MouseTracker.vcxproj|C:\\Users\\Shafayat\\Documents\\C\\MouseTracker\\MouseTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45E68B59-76B4-4474-BF9F-FD807215BF08}|MouseTracker.vcxproj|solutionrelative:MouseTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MouseTracker.cpp",
+              "DocumentMoniker": "C:\\Users\\Shafayat\\Documents\\C\\MouseTracker\\MouseTracker.cpp",
+              "RelativeDocumentMoniker": "MouseTracker.cpp",
+              "ToolTip": "C:\\Users\\Shafayat\\Documents\\C\\MouseTracker\\MouseTracker.cpp",
+              "RelativeToolTip": "MouseTracker.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-30T19:14:16.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
