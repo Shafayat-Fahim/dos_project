@@ -16,3 +16,7 @@ This project was developed using a variety of languages and technologies to tack
 -   **Tools:** Clang/GCC, Visual Studio 2022, IntelliJ IDEA, UTM for virtualization
 
 ---
+
+## 📂 Project Structure & Solutions
+
+This repository is organized into folders, one for each of the five mandatory problems.
