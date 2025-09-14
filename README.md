@@ -20,3 +20,17 @@ This project was developed using a variety of languages and technologies to tack
 ## 📂 Project Structure & Solutions
 
 This repository is organized into folders, one for each of the five mandatory problems.
+
+### A: Multiprocessing (Collatz Conjecture)
+
+-   **Description:** A C program that demonstrates process creation using the `fork()` system call. The child process calculates the Collatz sequence for a given number, while the parent process waits for its completion.
+-   **Key Concepts:** Process Creation (`fork()`), Process Synchronization (`wait()`), POSIX API.
+-   **How to Run (macOS/Linux):**
+    ```bash
+    # Compile the C code
+    clang collatz.c -o collatz
+
+    # Run the program with a positive integer
+    ./collatz 12
+    ```
+
