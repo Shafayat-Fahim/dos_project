@@ -34,3 +34,12 @@ This repository is organized into folders, one for each of the five mandatory pr
     ./collatz 12
     ```
 
+### B: CPU Scheduling Simulator
+
+-   **Description:** A Python script that simulates a non-preemptive **First-Come, First-Served (FCFS)** CPU scheduling algorithm. It calculates and reports key performance metrics.
+-   **Key Concepts:** CPU Scheduling, Process States, Performance Metrics (Turnaround Time, Waiting Time, CPU Utilization).
+-   **How to Run:**
+    ```bash
+    # Run the Python script
+    python3 scheduler.py
+    ```
