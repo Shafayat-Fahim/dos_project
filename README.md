@@ -43,3 +43,14 @@ This repository is organized into folders, one for each of the five mandatory pr
     # Run the Python script
     python3 scheduler.py
     ```
+
+### C: WIN32 Programming (Mouse Position)
+
+-   **Description:** A C++ program that runs exclusively on Windows and uses the native WIN32 API to continuously track and display the mouse cursor's screen coordinates.
+-   **Key Concepts:** System Calls, Native OS APIs, Cross-Platform Development.
+-   **Setup:** This program requires a Windows environment. It was developed and tested on a Windows 11 ARM VM running via UTM on macOS.
+-   **How to Run (Windows):**
+    1.  Open the project in Visual Studio 2022.
+    2.  Ensure the "Desktop development with C++" workload is installed.
+    3.  Click the "Local Windows Debugger" button to compile and run.
+
