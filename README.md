@@ -41,7 +41,7 @@ This repository is organized into folders, one for each of the five mandatory pr
 -   **How to Run:**
     ```bash
     # Run the Python script
-    python3 scheduler.py
+    python scheduler.py
     ```
 
 ### C: WIN32 Programming (Mouse Position)
@@ -54,3 +54,15 @@ This repository is organized into folders, one for each of the five mandatory pr
     2.  Ensure the "Desktop development with C++" workload is installed.
     3.  Click the "Local Windows Debugger" button to compile and run.
 
+### D: Multithreading (Mandelbrot Set)
+
+-   **Description:** A C++ program that utilizes 8 threads to parallelize the computationally intensive task of rendering the Mandelbrot set. The final image is saved as a `.ppm` file.
+-   **Key Concepts:** Multithreading, Parallelism, Synchronization (`join()`), Race Conditions.
+-   **How to Run (macOS/Linux):**
+    ```bash
+    # Compile the C++ code
+    clang++ mandelbrot.cpp -std=c++11 -o mandelbrot
+
+    # Run with image parameters: width, height, coordinates, iterations, filename
+    ./mandelbrot 800 600 -2.0 1.0 -1.0 1.0 1000 output.ppm
+    ```
