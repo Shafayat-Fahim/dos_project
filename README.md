@@ -66,3 +66,14 @@ This repository is organized into folders, one for each of the five mandatory pr
     # Run with image parameters: width, height, coordinates, iterations, filename
     ./mandelbrot 800 600 -2.0 1.0 -1.0 1.0 1000 output.ppm
     ```
+    
+### E: Synchronization (Dining Philosophers)
+
+-   **Description:** A classic synchronization problem solved in Java. The solution simulates five philosophers and prevents deadlock using a monitor-based approach.
+-   **Key Concepts:** Concurrency, Synchronization, Deadlock, Starvation, Monitors, Condition Variables (`wait()`, `notifyAll()`).
+-   **How to Run (Java):**
+    1.  Open the project in an IDE like IntelliJ IDEA.
+    2.  Ensure you have a JDK (Java 11 or later) configured.
+    3.  Run the `main` method in the `DiningTable.java` file.
+
+---
