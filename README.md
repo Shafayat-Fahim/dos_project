@@ -77,3 +77,7 @@ This repository is organized into folders, one for each of the five mandatory pr
     3.  Run the `main` method in the `DiningTable.java` file.
 
 ---
+
+## 💡 Challenges & Key Learnings
+
+A major challenge of this project was its cross-platform nature, requiring development on both UNIX-like and Windows systems. This was solved by using **UTM to virtualize Windows 11 on a Mac**, allowing all problems to be completed on a single machine.
